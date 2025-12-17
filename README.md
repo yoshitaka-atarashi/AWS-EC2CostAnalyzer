@@ -6,6 +6,8 @@
 
 A comprehensive Python tool designed to identify cost optimization opportunities for AWS EC2 instances by analyzing usage patterns, costs, and resource utilization.
 
+> 🇯🇵 **日本語版**: [README_ja.md](README_ja.md) をご覧ください
+
 ## 🚀 Features
 
 - **Smart Cost Analysis**: Two-tier priority system for optimization opportunities
@@ -30,6 +32,8 @@ A comprehensive Python tool designed to identify cost optimization opportunities
 - [Analysis Criteria](#analysis-criteria)
 - [Contributing](#contributing)
 - [License](#license)
+
+> 📖 **Detailed Installation Guide**: [docs/INSTALLATION.md](docs/INSTALLATION.md) | [日本語版](docs/INSTALLATION_ja.md)
 
 ## 📋 Prerequisites
 
